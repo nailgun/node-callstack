@@ -1,7 +1,7 @@
 # node-callstack
 *The simplest possible callstack fetcher.*
 
-[![Build Status](https://travis-ci.org/nailgun/callstack.png?branch=master)](https://travis-ci.org/nailgun/callstack)
+[![Build Status](https://travis-ci.org/nailgun/node-callstack.png?branch=master)](https://travis-ci.org/nailgun/node-callstack)
 
 ```npm install callstack```
 
