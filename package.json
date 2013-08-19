@@ -1,6 +1,6 @@
 {
   "name": "callstack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The simplest possible callstack fetcher",
   "homepage": "https://github.com/nailgun/node-callstack",
   "main": "index.js",
